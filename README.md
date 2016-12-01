@@ -1,0 +1,2 @@
+# parse_androidarsc
+解析Android中编译之后的apk文件中的resource.arsc文件格式
